@@ -136,11 +136,19 @@ border-radius: 30px
 
 
 /*section4*/
-.color{
-    backgroun-color:red;
 
+footer{
+    background-color: black;
+    text-align: center;
+    color: #ffff;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
 }
 
+span{
+    color:rgb(223, 63, 63);
+}
 
 
 
